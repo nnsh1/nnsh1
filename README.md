@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**nnsh1/nnsh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm a Digital Marketer
 
-Here are some ideas to get you started:
+### `MARKETING × TECHNOLOGY × AI × AUTOMATION`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I explore the intersection of digital marketing, emerging technologies, and intelligent automation.
+
+I'm passionate about building smarter digital experiences, optimizing workflows, experimenting with AI-powered tools, and turning ideas into practical solutions.
+
+---
+
+## ⚡ What I Work With
+
+- 📈 **Digital Marketing** — Growth strategies, SEO, content & digital campaigns
+- 🤖 **Artificial Intelligence** — AI tools, prompt engineering & AI-powered workflows
+- ⚙️ **Automation** — Workflow automation, integrations & process optimization
+- 💻 **Marketing Technology** — MarTech tools, platforms & digital ecosystems
+- 📊 **Data & Analytics** — Performance tracking, insights & optimization
+- 💡 **Creative Technology** — Exploring new tools, ideas & possibilities
+
+---
+
+## 🧪 Currently Exploring
+
+- AI applications in digital marketing
+- Intelligent workflow automation
+- No-code & low-code technologies
+- APIs, integrations & digital ecosystems
+- AI agents and emerging technologies
+
+---
+
+## 🧠 My Approach
+
+Curious by nature. Driven by experimentation.
+
+I believe the best results happen when creativity, data, and technology work together.
+
+---
+
+### 🌐 ALWAYS LEARNING. ALWAYS BUILDING. ALWAYS EXPLORING.
+
+`DIGITAL MARKETING` · `AI` · `AUTOMATION` · `MARTECH` · `GROWTH` · `TECHNOLOGY`
